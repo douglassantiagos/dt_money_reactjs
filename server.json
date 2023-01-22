@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "description": "Curso React",
+      "category": "Estudo",
+      "price": 2260,
+      "type": "outcome",
+      "createdAt": "2022-02-01T14:42:58.924Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "description": "Juros de Investimento",
+      "category": "Investimento",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-01-03T15:15:28.182Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento Site",
+      "category": "Venda",
+      "price": 11600,
+      "type": "income",
+      "createdAt": "2022-06-27T11:40:30.051Z"
+    },
+    {
+      "id": 4,
+      "description": "Aluguel",
+      "category": "Despesa",
+      "price": 2200,
+      "type": "outcome",
+      "createdAt": "2023-01-15T13:32:03.267Z"
+    },
+    {
+      "id": 6,
+      "description": "Netlfix",
+      "category": "Serviço de streaming",
+      "price": 49,
+      "type": "outcome",
+      "createdAt": "2023-01-21T14:47:20.626Z"
+    }
+  ]
+}
