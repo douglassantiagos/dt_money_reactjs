@@ -15,7 +15,7 @@ export const HeaderContent = styled.div`
   align-items: center;
   justify-content: space-between;
 
-  @media (max-width:375px) {
+  @media (max-width:425px) {
     img {
       width: 7.31rem;
     }
@@ -38,7 +38,7 @@ export const NewTransactionButton = styled.button`
     background: ${props => props.theme["green-700"]};
   }
 
-  @media (max-width:375px) {
+  @media (max-width:425px) {
     height: 2.5rem;  
     font-size: 0.875rem; 
   }

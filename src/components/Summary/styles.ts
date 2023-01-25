@@ -12,7 +12,7 @@ export const SummaryContainer = styled.div`
 
   margin-top: -5rem;
 
-  @media (max-width:375px) {
+  @media (max-width:425px) {
     gap: 1rem;
     overflow-y: scroll
   }
@@ -56,7 +56,7 @@ export const SummaryCard = styled.div<SummaryCardProps>`
     }
   }
 
-  @media (max-width:375px) {
+  @media (max-width:425px) {
     min-width: 280px;
     padding: 1.5rem 1.8rem;
 

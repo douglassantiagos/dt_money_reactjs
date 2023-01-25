@@ -15,14 +15,16 @@ export const Content = styled(Dialog.Content)`
   border-radius: 6px;
   padding: 2.5rem 3rem;
   background: ${props => props.theme['gray-800']};
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 
-  @media (max-width:375px) {
-    min-width: 100%;
+  @media (max-width: 425px) {
+    min-width: 90%;
     border-radius: 1.25rem;
     padding: 2.5rem 1.5rem;
     
@@ -72,7 +74,7 @@ export const Content = styled(Dialog.Content)`
 
       }
 
-      @media (max-width: 375px) {
+      @media (max-width: 425px) {
         height: 48px;
       }
     }
@@ -90,7 +92,7 @@ export const CloseButton = styled(Dialog.Close)`
   cursor: pointer;
   color: ${props => props.theme['gray-500']};
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     top: 1.8rem;
   }
 `;

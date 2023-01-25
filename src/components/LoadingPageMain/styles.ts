@@ -5,7 +5,7 @@ export const LoadingPageMainContainer = styled.div`
   /* color: ${props => props.theme["gray-500"]}; */
 
 
-  @media (max-width:375px) {
+  @media (max-width:425px) {
     min-width: auto;
   }
 `

@@ -10,7 +10,7 @@ export const TransactionsContainer = styled.div`
     margin-top: 1.5rem;
   }
   
-  @media (max-width:375px) {
+  @media (max-width:425px) {
     margin: 2rem auto 0;
 
     div {
@@ -63,7 +63,7 @@ export const TransactionsTable = styled.table`
     }
   }  
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     display: none;
   }
 `
@@ -116,7 +116,7 @@ export const TransactionsDescription = styled.div`
     color: ${props => props.theme["gray-500"]};
   }
 
-  @media (min-width: 376px) {
+  @media (min-width: 426px) {
     justify-content: flex-start;
     gap: 0.5em;
   }
@@ -138,7 +138,7 @@ export const TransactionsCard = styled.div`
     }
   }
 
-  @media (min-width: 376px) {
+  @media (min-width: 426px) {
     display: none;
   }
 `
@@ -182,7 +182,7 @@ export const TransactionsNotFound = styled.div`
   gap: 0.5rem;
   color: ${props => props.theme["gray-500"]};
 
-  @media (max-width: 376px) {
+  @media (max-width: 426px) {
     display: none;
   }
 `
@@ -203,7 +203,7 @@ export const FilterSelected = styled.div`
     background: ${props => props.theme["gray-700"]};
   } 
   
-  @media (max-width: 376px) {
+  @media (max-width: 426px) {
     div {
       margin: 1rem 0;
       display: flex;

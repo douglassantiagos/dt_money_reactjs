@@ -5,7 +5,7 @@ export const SearchFormContainer = styled.form`
   gap: 1rem;
   margin-top: 1rem;
 
-  @media (max-width:375px) {
+  @media (max-width: 425px) {
     gap: 0.5rem;
   }
 
@@ -48,7 +48,7 @@ export const SearchFormContainer = styled.form`
       transition: background-color 0.2s, color 0.2s, border-color 0.2s;
     } 
     
-    @media (max-width:375px) {
+    @media (max-width:425px) {
       padding: 0.75rem;
 
       span {

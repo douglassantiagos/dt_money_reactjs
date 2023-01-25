@@ -10,7 +10,7 @@ export const Overlay = styled(Dialog.Overlay)`
 `;
 
 export const Content = styled(Dialog.Content)`
-  @media (max-width: 376px) {
+  @media (max-width: 425px) {
     min-width: 95vw; 
     padding: 2.5rem 2rem;    
   }
@@ -26,7 +26,7 @@ export const Content = styled(Dialog.Content)`
   transform: translate(-50%, -50%);  
   
   div {
-    @media (max-width: 376px) {
+    @media (max-width: 425px) {
       display: flex;
       flex-direction: column;
       gap: 0;
@@ -45,7 +45,7 @@ interface ButtonHighLightProps {
 }
 
 export const ButtonAction = styled.button<ButtonHighLightProps>`
-  @media (max-width: 376px) {
+  @media (max-width: 425px) {
     width: 100%;
     height: 3.2rem; 
   }
@@ -95,7 +95,7 @@ export const Title = styled.section`
   font-weight: bold;
   color: ${props => props.theme["gray-100"]};
 
-  @media (max-width: 376px) {
+  @media (max-width: 425px) {
     text-align: center;
   }
 `
@@ -141,14 +141,14 @@ export const TransactionsTable = styled.table`
     }
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     display: none;
   }
 `
 
 export const TransactionsCard = styled.div`
   div {
-    @media (min-width: 376px) {
+    @media (min-width: 426px) {
       display: none;
     }
 

@@ -45,7 +45,7 @@ export const RadioItem = styled(RadioGroup.Item)`
     box-shadow: none;
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     width: 2.2rem;
     height: 1.55rem;
   }
@@ -69,7 +69,7 @@ export const RadioIndicator = styled(RadioGroup.Indicator)`
     border-radius: 50%;
     background-color: ${props => props.theme["green-500"]};
 
-    @media (max-width: 375px) {
+    @media (max-width: 425px) {
       width: 70%;
       height: 70%;
     }
