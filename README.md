@@ -11,7 +11,11 @@
 <br>
 
 <p align="center">
-  <img alt="dt-money" src="https://imgur.com/NuX1AvG.png" width="100%">
+  <img alt="dt-money" src="https://imgur.com/NuX1AvG.png" width="69%">
+</p>
+
+<p align="center">
+  <img src="public/dtmoney-gif.gif" width='700' />
 </p>
 
 ## 🚀 Tecnologias
