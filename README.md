@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dt-money" title="dt-money" src="https://imgur.com/U2QUzCx.png" width="300px" />
+  <img alt="dt-money" title="dt-money" src="https://imgur.com/U2QUzCx.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -40,7 +40,7 @@ A aplicação contém as seguintes funcionalidades:
 - Validação de dados no formulário
 - Realização de Busca por transação
 
-Funcionalidades adicionadas como upgrade: <br>
+Funcionalidades adicionadas por mim como upgrade: <br>
 
 Filtrar transação por:
   - Ordem
