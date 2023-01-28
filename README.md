@@ -35,29 +35,28 @@ DT money é um projeto desenvolvido para controle de processos de entrada e saí
 
 A aplicação contém as seguintes funcionalidades:
 
-- Executar um novo bloco ao preencher o formulário
-- Armazenar e Exibir histórico de tarefas realizados
-- Remover as tarefas da listagem do histórico
+- Adicionar nova transação a lista
+- Armazenar e Exibir transações de entrada e saída
 - Validação de dados no formulário
-- Notificação ao termino do bloco
-- Tema dark e light
-- Armazenamento local
+- Realização de Busca por transação
 
-Funcionalidades adicionadas como upgrade:
+Funcionalidades adicionadas como upgrade: <br>
 
-- Executar um novo bloco ao preencher o formulário
-- Armazenar e Exibir histórico de tarefas realizados
-- Remover as tarefas da listagem do histórico
+Filtrar transação por:
+  - Ordem
+  - Categoria
+  - Data (Mês)
+  - Transação (Entrada ou Saída)
+  - Limpar filtros <br>
+  
+Update e Delete (CRUD):
+  - Editar transação da lista
+  - Remover transação da lista
+
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/3C9Kqsoh3zMGV7O0BnRvuc/Ignite-Timer-(Community)?node-id=313%3A1874&t=PcaT526E7jgmpvMH-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :link: Link
-
-<a href="https://ignite-timer-project.vercel.app/" target="_blank" rel="nofollow">
-  <img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" style="max-width: 100%;">
-</a>
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/rYnMJLkcWJvv82Nh2dNmyl/DT-Money-(Community)?node-id=0%3A1&t=8NZxtw36RjNSBFym-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
