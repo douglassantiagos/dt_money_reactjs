@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-DT money é um projeto desenvolvido para controle de processos de entrada e saída de dinheiro. 
+DT money é um projeto desenvolvido para controle de processos de entrada e saída de dinheiro da sua vida pessoal ou negócio. 
 
 A aplicação contém as seguintes funcionalidades:
 
