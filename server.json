@@ -9,14 +9,6 @@
       "id": 1
     },
     {
-      "id": 2,
-      "description": "Juros de Investimento",
-      "category": "Investimento",
-      "price": 2000,
-      "type": "income",
-      "createdAt": "2023-01-03T15:15:28.182Z"
-    },
-    {
       "id": 3,
       "description": "Desenvolvimento Site",
       "category": "Venda",
@@ -28,7 +20,7 @@
       "id": 4,
       "description": "Aluguel",
       "category": "Despesa",
-      "price": 2200,
+      "price": 3600,
       "type": "outcome",
       "createdAt": "2023-01-15T13:32:03.267Z"
     },
@@ -39,6 +31,14 @@
       "price": 49,
       "type": "outcome",
       "createdAt": "2023-01-21T14:47:20.626Z"
+    },
+    {
+      "description": "Desenvolvimento App",
+      "category": "Venda",
+      "price": 16000,
+      "type": "income",
+      "createdAt": "2023-01-28T14:42:03.422Z",
+      "id": 7
     }
   ]
 }
